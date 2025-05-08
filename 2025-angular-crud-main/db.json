@@ -1,0 +1,23 @@
+{
+  "clientes": [
+    {
+      "id": "ddsaf",
+      "nome": "Deborah Aarão"
+    },
+    {
+      "id": "4",
+      "nome": "Cintia",
+      "telefone": "121211221"
+    },
+    {
+      "id": "BpXo89",
+      "nome": "Cleber",
+      "telefone": "1212132"
+    },
+    {
+      "id": "SoSZvh",
+      "nome": "novo nome",
+      "telefone": "21323"
+    }
+  ]
+}
